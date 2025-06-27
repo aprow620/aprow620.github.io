@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Ashley Prow-Fleischer, Ph.D."
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile_photo.png"
-  name             : #"Ashley Prow-Fleischer, Ph.D."
+  name             : Ashley Prow-Fleischer, Ph.D.
   pronouns         : # example: "she/her"  
   bio              : "Post-Doctoral Researcher in Paleobiology and Redox Geochemistry"
   location         : "Stanford University"
@@ -39,7 +39,7 @@ author:
   orcid            : "http://orcid.org/0000-0003-3371-2453"
   semantic         : # URL
   pubmed           : #URL
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Ashley-Prow-Fleischer?ev=hdr_xprf"
   scopus           : # URL
 
   # Repositories and software development
