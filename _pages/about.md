@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "This page underconstruction"
 author_profile: true
 redirect_from: 
   - /about/
