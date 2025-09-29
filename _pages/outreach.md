@@ -22,6 +22,6 @@ Once corrected, the unusually high density of visitors from rural southeastern I
 
 <iframe src="/assets/plots/USA_visitors.html" width="100%" height="600" frameborder="0"></iframe>
 
-Finally, we've welcomed travelers from 24 other countries besides our own, underscoring the truly far-reaching draw and international wonder that we have in our backyard. 
+Finally, we've greeted travelers from 24 other countries besides our own, underscoring the truly far-reaching draw and international wonder that we have in our backyard. 
 
 <iframe src="/assets/plots/world_visitors.html" width="100%" height="600" frameborder="0"></iframe>
