@@ -14,8 +14,8 @@ main:
   #- title: "Talks"
    # url: /talks/    
 
-  #- title: "Teaching"
-   # url: /teaching/    
+  - title: "Teaching"
+    url: /teaching/    
     
   - title: "Outreach"
     url: /outreach/
@@ -29,8 +29,8 @@ main:
   # - title: "CV"
   #   url: /cv-json/
     
-  #- title: "Guide"
-  #  url: /markdown/
+  - title: "In the News"
+    url: /markdown/
 
    #- title: "Outreach"
    # url: /outreach/
