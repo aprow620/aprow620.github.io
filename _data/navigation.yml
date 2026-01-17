@@ -23,8 +23,8 @@ main:
   - title: "CV"
     url: /files/Prow_CurriculumVitae_Summer25.pdf
     
-  # - title: "CV"
-  #   url: /cv-json/
+   - title: "Code"
+     url: /cv-json/
     
   - title: "In the News"
     url: /markdown/
