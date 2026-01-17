@@ -11,17 +11,14 @@ main:
   - title: "Publications"
     url: https://scholar.google.com/citations?user=ipPCqwUAAAAJ&hl=en
 
-  #- title: "Talks"
-   # url: /talks/    
+  - title: "Research"
+   url: /research/    
 
   - title: "Teaching"
     url: /teaching/    
     
   - title: "Outreach"
     url: /outreach/
-        
-  - title: "Roadside Dinos"
-    url: /year-archive/
     
   - title: "CV"
     url: /files/Prow_CurriculumVitae_Summer25.pdf
@@ -31,6 +28,9 @@ main:
     
   - title: "In the News"
     url: /markdown/
+    
+     - title: "Roadside Dinos"
+    url: /year-archive/
 
    #- title: "Outreach"
    # url: /outreach/
