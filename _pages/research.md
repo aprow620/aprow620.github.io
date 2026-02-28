@@ -5,6 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 <b> Mapping iodine distributions in biotic carbonates </b>  
+<img style="float: right;" src="../images/coral_ICa.png" alt="drawing" width="400"/>
 The I/Ca ratio of carbonates is a redox proxy that qualitatively tracks hypoxic conditions in 
 regional water masses and can also trace reducing pore fluids. Only oxidized iodine species 
 iodate are incorporated into carbonate minerals. Carbonates of biological origin such as 
@@ -21,6 +22,6 @@ These measurements will provide foundational constraints on iodine incorporation
 skeletons and improve the utility of I/Ca as a paleoclimate proxy.
 
 
-<img style="float: right;" src="../images/coral_ICa.png" alt="drawing" width="400"/>
+
 
 
