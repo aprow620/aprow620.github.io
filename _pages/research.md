@@ -1,4 +1,9 @@
-
+---
+layout: archive
+title: "Research"
+permalink: /research/
+author_profile: true
+---
 <b> Mapping iodine distributions in biotic carbonates </b>
 The I/Ca ratio of carbonates is a redox proxy that qualitatively tracks hypoxic conditions in 
 regional water masses and can also trace reducing pore fluids. Only oxidized iodine species 
