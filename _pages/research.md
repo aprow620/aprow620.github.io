@@ -20,4 +20,4 @@ reference materials in order to map iodine distributions, speciation and element
 These measurements will provide foundational constraints on iodine incorporation mechanisms in coral 
 skeletons and improve the utility of I/Ca as a paleoclimate proxy.
 
-![Fig4](images/coral_ICa.jpg)
+![coral_ICa_signal](../images/coral_ICa.jpg)
