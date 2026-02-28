@@ -5,10 +5,10 @@ permalink: /teaching/
 author_profile: true
 ---
 ### Topics in Geobiology 
-Journal Club
+Journal Club  
 Stanford University, Sp 2026
 
 
 ### Climate Change Past and Present
-Lecture
+Lecture  
 Syracuse University, Summer 2025
