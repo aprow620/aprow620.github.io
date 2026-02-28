@@ -11,8 +11,8 @@ main:
   - title: "Publications"
     url: https://scholar.google.com/citations?user=ipPCqwUAAAAJ&hl=en
 
-  - title: "Research"
-   url: /research/    
+  # - title: "Research"
+  #  url: /research/    
 
   - title: "Teaching"
     url: /teaching/    
@@ -26,8 +26,8 @@ main:
    # - title: "Code"
    #   url: /cv-json/
     
-  - title: "In the News"
-    url: /markdown/
+  # - title: "In the News"
+  #   url: /markdown/
     
      - title: "Roadside Dinos"
     url: /year-archive/
