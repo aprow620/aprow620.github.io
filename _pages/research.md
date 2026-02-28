@@ -21,6 +21,6 @@ These measurements will provide foundational constraints on iodine incorporation
 skeletons and improve the utility of I/Ca as a paleoclimate proxy.
 
 
-<img src="../images/coral_ICa.png" alt="drawing" width="200"/>
+<img src="./images/coral_ICa.png" alt="drawing" width="100"/>
 
-![coral_ICa_signal](../images/coral_ICa.png)
+
