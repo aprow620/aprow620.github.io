@@ -12,7 +12,7 @@ main:
     url: https://scholar.google.com/citations?user=ipPCqwUAAAAJ&hl=en
 
   - title: "Research"
-   url: /research/    
+    url: /research/    
 
   # - title: "Teaching"
   #   url: /teaching/    
