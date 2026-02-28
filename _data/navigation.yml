@@ -11,11 +11,11 @@ main:
   - title: "Publications"
     url: https://scholar.google.com/citations?user=ipPCqwUAAAAJ&hl=en
 
-  # - title: "Research"
-  #  url: /research/    
+  - title: "Research"
+   url: /research/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  # - title: "Teaching"
+  #   url: /teaching/    
     
   - title: "Outreach"
     url: /outreach/
