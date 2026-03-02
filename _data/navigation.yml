@@ -22,6 +22,9 @@ main:
     
   - title: "CV"
     url: /files/Prow_CurriculumVitae_Summer25.pdf
+
+  - title: "Service
+    url: /service/
     
   # - title: "Code"
   #   url: /index/
