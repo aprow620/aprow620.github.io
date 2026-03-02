@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-<img src="../images/flyer_png.png" alt="description" style="float: right; margin-left: 15px; width: 200px;">
+<img src="../images/flyer_png.png" alt="description" style="float: right; margin-left: 15px; width: 400px;">
 
 ### Topics in Geobiology 
 
