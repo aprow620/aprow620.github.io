@@ -24,7 +24,7 @@ skeletons and improve the utility of I/Ca as a paleoclimate proxy.
 Funding sources: Geological Society of America student research grant to A. Prow
 
 <b> Modeling Drivers of Late Devonian Mass Extinction Selectivity and Environmental Changes </b>  
-<img style="float: right;" src="../images/data_assimilation_pipeline.png" alt="drawing" width="400"/>
+<img style="float: right;" src="../images/data_assimiltion_pipeline.png" alt="drawing" width="400"/>
 The Late Devonian Kellwasser events were characterized by climate cooling and enhanced organic matter burial coupled to widespread deoxygenation. The complex spatial patterns in the biological response to the Kellwasser events have challenged our understanding of the primary kill mechanism and the driving environmental transitions since the recognition of the Kellwasser shale a hundred years ago. Through earth system and box modeling I aim to reconcile environmental and climate state transitions of the Kellwasser Events. I use novel data assimilation and Bayesian methods to filter models realizations for agreement with spatial patterns of geochemical and biological responses. Through modeling I have shown that increases in limiting nutrients is a prerequisite for the events regardless of other environmental factors (Prow-Fleischer in prep) and currently I am investigating the solution space of flux changes that substantiate both increased organic matter burial and carbonate saturation through the coupled response of carbon and calcium isotopes ratios. 
 
 This research was supported by NSF Frontier Research in Earth Sciences awarded to PI's Lu and Payne
