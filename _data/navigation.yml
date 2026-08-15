@@ -15,19 +15,22 @@ main:
     url: /research/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/  
+
+  - title: "Mentoring"
+    url: /mentoring/
     
   - title: "Outreach"
     url: /outreach/
     
   - title: "CV"
-    url: /files/Prow_CurriculumVitae_Summer25.pdf
+    url: /files/Prow_CurriculumVitae_Summer2026_websiteversion.pdf
 
   - title: "Service"
     url: /service/
     
-  # - title: "Code"
-  #   url: /index/
+  - title: "Open Source Code"
+    url: /index/
     
   - title: "In the News"
     url: /news/
