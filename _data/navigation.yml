@@ -31,8 +31,8 @@ main:
     
   - title: "Open Source Code"
     children:
-      -title: "Latitudinal Extinction Gradients"
-       url: /code/
+      - title: "Latitudinal Extinction Gradients"
+        url: /code/
     
   - title: "In the News"
     url: /news/
