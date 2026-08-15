@@ -30,7 +30,7 @@ main:
     url: /service/
     
   - title: "Open Source Code"
-    url: /index/
+    url: /code/
     
   - title: "In the News"
     url: /news/
