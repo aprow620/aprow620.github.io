@@ -35,8 +35,8 @@ This research was supported by NSF Frontier Research in Earth Sciences awarded t
 Calcium isotope ratios, while responding to both local and global changes in dissolved carbonate dynamics, are also sensitive to fluid–rock interaction, and certain alteration pathways can produce systematic trends in the covariation of δ⁴⁴Ca and other trace elements. Specifically, they can be helpful in diagnosing the fidelity of redox proxy signals when paired with other redox or recrystallization indicators <a href="https://doi.org/10.1016/j.chemgeo.2024.122530">(Prow-Fleischer et al. 2025)</a>. I use a method I developed to investigate latitudinal trends in Triassic upper-ocean redox state in the Paleo-Tethys, pairing new δ⁴⁴Ca data with other available datasets to show that, even under conditions of high fluid exchange, redox signals can be largely conserved. This method can also be used to screen datasets that should not be used for quantitative reconstructions (in prep.).	
 
 
-<b> Tentaculites  </b>  
-<img style="float: right;" src="../images/tentac.tif" alt="drawing" width="600"/>
+<b> What's the deal with Tentaculites </b>  
+<img style="float: right;" src="../images/tentac.png" alt="drawing" width="600"/>
 
 Tentaculites are an enigmatic group of carbonate-based microfossils of uncertain taxonomic affinity that were prolific during the Middle to Late Paleozoic, but went extinct during the Late Devonian Kellwasser events. I found that during warming events, dacryoconarids, a planktonic class of tentaculitoids, may have responded by growing smaller <a href="https://doi.org/10.1130/GES02759.1">(Prow et al. 2024)</a>. This has implications for energy transfer within the Devonian upper ocean, when they would have been an abundant contributor to upper-ocean biomass and carbon burial in deep basins. My research questions moving forward are to investigate how important the disappearance of their size class was to the destabilization of upper-ocean carbonate saturation and organic matter remineralization depth during the Kellwasser Events. I am also working with the Paleobiology Database to update their classification within the database to modern standards.
 
