@@ -10,6 +10,6 @@ A Syracuse University Today article regarding my coral research
 
 
 Excerpt from Dewitt Eagle News regarding a hike I led at Clark Reservation
-<iframe src="/files/mypaper.pdf" width="100%" height="800px" style="border: none;">
+<iframe src="/files/Hike explores park’s geological history – Eagle News Online.pdf" width="100%" height="800px" style="border: none;">
 </iframe>
 
