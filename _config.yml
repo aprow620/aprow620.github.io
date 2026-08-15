@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_photo.png"
+  avatar           : "profile_pic.png"
   name             : Ashley Prow-Fleischer, Ph.D.
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/they"  
   bio              : "Post-Doctoral Researcher in Paleobiology and Redox Geochemistry"
   location         : "Stanford University"
   employer         : "Doerr School of Sustainability Dept Earth and Environmental Sciences"
