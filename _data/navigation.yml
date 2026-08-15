@@ -30,7 +30,9 @@ main:
     url: /service/
     
   - title: "Open Source Code"
-    url: /code/
+    children:
+      -title: "Latitudinal Extinction Gradients"
+       url: /code/
     
   - title: "In the News"
     url: /news/
