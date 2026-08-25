@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Latitudinal Extinction Gradients"
+permalink: /lat-ext-grad/
+author_profile: true
+---
+
 # Reconstruction of Latitudinal Extinction Gradient from Fossil
 Occurrence Data
 Ashley Prow-Fleischer, Jood A. Al Aswad
