@@ -29,10 +29,8 @@ main:
   - title: "Service"
     url: /service/
     
-  - title: "Open Source Code"
-    children:
-      - title: "Latitudinal Extinction Gradients"
-        url: /lat-ext-grad/
+  - title: "Latitudinal Extinction Gradients"
+    url: /lat-ext-grad/
     
   - title: "In the News"
     url: /news/
