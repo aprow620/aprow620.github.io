@@ -29,8 +29,11 @@ main:
   - title: "Service"
     url: /service/
     
-  - title: "Latitudinal Extinction Gradients"
-    url: /lat-ext-grad/
+  - title: "Code"
+    url: "#"
+    children:
+      - title: "Latitudinal Extinction Gradients"
+        url: "https://aprow620.github.io/Latitudinal_Extinction_Gradients/"
     
   - title: "In the News"
     url: /news/
