@@ -17,10 +17,10 @@ Here are some highlights from previous years
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: auto auto; gap: 10px; margin: 20px 0;">
   <img src="/images/hike-flyer.jpg" alt="2026 hike flyer" style="grid-column: 1; grid-row: 1 / span 2; width: 100%; height: 100%; object-fit: cover; border-radius: 6px;">
-  <img src="/images/IMG_1710.jpg" alt="Hike photo 1" style="grid-column: 2; grid-row: 1; width: 100%; border-radius: 6px;">
-  <img src="/images/IMG_1710.jpg" alt="Hike photo 2" style="grid-column: 2; grid-row: 2; width: 100%; border-radius: 6px;">
+  <img src="/images/IMG_1710.jpeg" alt="Hike photo 1" style="grid-column: 2; grid-row: 1; width: 100%; border-radius: 6px;">
+  <img src="/images/IMG_1710.jpeg" alt="Hike photo 2" style="grid-column: 2; grid-row: 2; width: 100%; border-radius: 6px;">
 </div>
 
 ## 2025
-   <img src="../images/clark_hike.jpg" alt="Clark-hike" style="width: 300px; max-width: 100%; border-radius: 6px;">
+   <img src="../images/clark_hike.jpg" alt="Clark-hike" style="width: 500px; max-width: 100%; border-radius: 6px;">
 
