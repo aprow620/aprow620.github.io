@@ -9,10 +9,11 @@ author_profile: true
 ### Topics in Geobiology 
 
 Journal Club  
-Stanford University, Sp 2026
+Stanford University, Sp 2026																				
 
-<iframe src="/files/Sp26 EPS_ESS 208 syllabus.pdf" width="100%" height="800px" style="border: none;">
+<iframe src="/files/Sp26 EPS_ESS 208 syllabus.pdf" margin="0" width="400px" height="800px" style="border: none;">
 </iframe>
+
 
 ### Climate Change Past and Present
 Lecture  
